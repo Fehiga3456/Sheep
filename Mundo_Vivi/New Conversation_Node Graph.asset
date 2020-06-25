@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a62d96fc48c6e448ab12468a525dc3, type: 3}
+  m_Name: New Conversation_Node Graph
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 6590778708325560719, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -8740207422759041384, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -3477289952254799347, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 5141740514641995316, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 2143013408612133688, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 3273901734051888083, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 8526761708725055590, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -8258807114666694183, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -2140014078910029828, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -1911436691064371240, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -4953883599328917949, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -9095427164339773222, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -2793670800001079824, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 5919127498048654213, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 3214557517395165186, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -8915031035007726276, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 5654241903837715834, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -617914142647743165, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -5172489649719633088, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 3324551289146719632, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 799818825403358073, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -9178174346328633238, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 354600527221393708, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: -2662539599733927190, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58, type: 2}
+  - {fileID: 7504373900977998940}
+--- !u!114 &7504373900977998940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27243d55d45cf32419c9a0abe23a098f, type: 3}
+  m_Name: End
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 5742.4717, y: 1212.4818}
+  ports:
+    keys:
+    - Conector
+    values:
+    - _fieldName: Conector
+      _node: {fileID: 7504373900977998940}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: Exit
+        node: {fileID: -9178174346328633238, guid: 9a6f6b2c76770e14b9a5f0fb9dc60a58,
+          type: 2}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  Resultado: 0
+  Conector: 0
+  conversa_seguinte: {fileID: 0}

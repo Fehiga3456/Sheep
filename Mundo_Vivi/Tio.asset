@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a62d96fc48c6e448ab12468a525dc3, type: 3}
+  m_Name: Tio
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: -6888531606700555771, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 7153774549227093832, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -2784264523296089378, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -5167536487877088513, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 868219978981614827, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1273520590055167390, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -7279389425053499623, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 4472701573724634822, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -9080849182009955001, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 7869351937853726881, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -152223808452966928, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -2486959511158074515, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -1313104036350988099, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 6680578287025961112, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -8664870598591924085, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -3943627209095767851, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -2116093655381192580, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 449679221343373090, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -646698229160216419, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 3375484493810223139, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1231371451755986167, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -4044091715675966117, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 3046381590456333494, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -405526375428643724, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -8624522586789348405, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1286717874861523134, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -5186406315009680245, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -5269694357514048901, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 6306379988153394037, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -5974836461881140593, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1308372702658640231, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 6485720334013091469, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -1238001100252766288, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 2646008386498850648, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 954544133198280961, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -8688522256668010708, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 5862071011270402862, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1388258229950314279, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: -7392018003137058536, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 6283401232757365950, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 88795871269310447, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 5231485122955632344, guid: 6e460be2f18396a42a12b6e10d7c8968, type: 2}
+  - {fileID: 1458298277289504742}
+--- !u!114 &1458298277289504742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27243d55d45cf32419c9a0abe23a098f, type: 3}
+  m_Name: End
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 8552, y: 1656}
+  ports:
+    keys:
+    - Conector
+    values:
+    - _fieldName: Conector
+      _node: {fileID: 1458298277289504742}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: Exit
+        node: {fileID: 5231485122955632344, guid: 6e460be2f18396a42a12b6e10d7c8968,
+          type: 2}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  Resultado: 0
+  Conector: 0
+  conversa_seguinte: {fileID: 0}
