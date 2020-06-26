@@ -1,0 +1,188 @@
+@1 
+npc_text=Hum...
+Op1=Puxar assunto.
+Op1_full=Nossa, você é um vampiro!?
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@2
+npc_text=Se você veio para me zoar, fala e vai embora.
+Op1=Pedir desculpas.
+Op1_full=Desculpa, não tive a intenção, eu nunca tinha visto um vampiro.
+Op2=Ir embora.
+Op2_full=Credo seu paranoico, Tchau então!
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+@3
+npc_text=Vocês só vêm me procurar para tirar proveito de mim.
+Op1=(Vocês ?)Criar empatia.
+Op1_full=Mas, porque as pessoas te tratam assim?
+Op2=(Vocês ?)Pedir informação.
+Op2_full=Eu precisava de uma informação, poderia dizer onde…
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+
+@4
+npc_text=Pessoas não, mortos. Eles me consideram vivo e sempre me excluem de tudo.
+Op1=Que triste.
+Op1_full=
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@5
+npc_text=<i>*Risos*</i>Eu fiz algo que os mortos vão com certeza se a arrepende de ter mexido comigo.
+Op1=O que você fez ?
+Op1_full= E... que você fez?
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@6
+npc_text=É um drink, logo você verá. <b>Ei Jorge vem para cá.<b>
+Op1=(Não to entendo esse cara)Hum
+Op1_full= 
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+
+
+@7
+npc_text=Eu sabia! Você só queria se aproveitar do meu conhecimento! Vai embora!
+Op1=Mas…
+Op1_full=Mas… eu!
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@8
+npc_text=Saiii!
+Op1=Ir embora.
+Op1_full=Desculpa.
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+
+@9
+npc_text=Sabia que você era só mais uma <i>Poser</i> querendo me humilhar!
+Op1=(Aff, To forá)Só ir embora.
+Op1_full=
+Op2=(Ai que cara chato)Responder ele.
+Op2_full=Eu não falei nada demais, e você já veio me acusando!
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+
+@10
+npc_text=Sabia que você era só mais uma <i>Poser</i> querendo me humilhar!
+Op1=Só ir embora.
+Op1_full=Tchau.
+Op2=(Ai que cara chato)Responder ele.
+Op2_full=Eu não falei nada demais, e você já veio me acusando!
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+@11
+npc_text=Vocês só vêm me procurar para tirar proveito de mim.
+Op1=(Vocês ?)Criar empatia.
+Op1_full=Mas, porque as pessoas te tratam assim?
+Op2=(Vocês ?)Pedir informação.
+Op2_full=Eu precisava de uma informação, poderia dizer onde…
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@12
+npc_text=Pessoas não, mortos. Eles me consideram vivo e sempre me excluem de tudo.
+Op1=Que triste.
+Op1_full=
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@13
+npc_text=<i>*Risos*</i>Eu fiz algo que os mortos vão com certeza se a arrepende de ter mexido comigo.
+Op1=O que você fez ?
+Op1_full= E... que você fez?
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@14
+npc_text=É um drink, logo você verá. <b>Ei Jorge vem para cá.<b>
+Op1=(Não to entendo esse cara)Hum
+Op1_full= 
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+
+
+@15
+npc_text=Eu sabia! Você só queria se aproveitar do meu conhecimento! Vai embora!
+Op1=Mas…
+Op1_full=Mas… eu!
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=
+
+@16
+npc_text=Saiii!
+Op1=Ir embora.
+Op1_full=Desculpa.
+Op2=
+Op2_full=
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=

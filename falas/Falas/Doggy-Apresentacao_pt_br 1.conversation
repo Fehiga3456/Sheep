@@ -1,0 +1,289 @@
+@1    
+npc_text= 
+Op1=(Assustador, mas ainda é um cachorro) Um cachorro?  
+Op1_full= Um cachorro? Você está perdido, amiguinho? 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=   
+
+@2 
+npc_text=*Latidos* Tira a mão de mim, você está achando que eu sou O QUE? 
+Op1=(Eita porra! Um cachorro que fala?) Pedir desculpas. 
+Op1_full=Meu Anúbis, um cachorro que fala, a..a.., me desculpe não sabia que você era inteligente. 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+
+  
+
+@3 
+npc_text=Aff, sabia que esse lugar só tinha gente assim, primatas idiotas. Meu nome é Doggy só para você saber. 
+
+Op1= Argumentar com ele. 
+
+Op1_full=Olha querido desculpa, sou a Mumiazinha e da onde eu venho não tem cachorros que falam, então menos. 
+
+Op2= Dizer que não quero papo. 
+
+Op2_full=Me dá licença, que quero papo com você. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+
+  
+
+@4 
+
+npc_text=Então tchau, sua perdida. 
+
+Op1= (Que bicho chato) Dizer que só tem chatos aqui. 
+
+Op1_full=Chato você em, até. 
+
+Op2= Rodar a baiana. 
+
+Op2_full=Quer saber, eu tive que me teletransporte para esse mundo assustador para salvar minha ovelha, agora, para de caso. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+
+
+  
+
+@5 
+
+npc_text= 
+
+Op1=(Não consegui nada com ele) Dizer Tchau! 
+
+Op1_full= Tchau! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+
+  
+
+@6 
+
+npc_text= 
+
+Op1=(Não consegui nada com ele) Dizer Tchau! 
+
+Op1_full= Tchau! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+@7 
+
+npc_text=Agora você é a vítima dessa história, seu rolo de pape higiênico! 
+
+Op1= Xingar ele. 
+
+Op1_full=Vai cheirar o próprio rabo, seu ^&*$#*! 
+
+Op2= (Calma Vivi)Pensar um pouco. 
+
+Op2_full=Espera, eu já entendi, eu preciso agir igual a ele, eu tenho que ser MAU! 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+ 
+@8 
+
+npc_text= 
+
+Op1=(Não consegui nada com ele) Dizer Tchau! 
+
+Op1_full= Tchau! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+ 
+
+ 
+@9 
+
+npc_text= Você está louca Mumiazinha? 
+
+Op1=(Agora eu entedia, agora eu saquei) Continuar! 
+
+Op1_full= NÃO TÃO RÁPIDO! Você está falando que todas as múmias são rolos de papel higiênico? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+@10 
+
+npc_text=Oi…na. 
+
+Op1= (Ele já está ficando perdido) Continuar! 
+
+Op1_full=É isso mesmo, antes você também falou que todos os primatas são idiotas, estou errada? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+
+
+@11 
+
+npc_text=Não é que… 
+
+Op1= (ISSO MESMO SEU HIPÓCRITA!) Te peguei. 
+
+Op1_full= ISSO MESMO SEU HIPÓCRITA! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+@12 
+
+npc_text=Ahhh! Eu… eu não entendo, eu usei todas as minhas habilidades de lacração. 
+
+Op1=Dizer que ele é fraco. 
+
+Op1_full=Você é fraco, te falta ódio. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+
+
+@13 
+
+npc_text=Mas ela é um inimigo muito superior, oh! Nobre guerreira me diga o seu nome. 
+
+Op1=Dizer o seu nome. 
+
+Op1_full= Eu sou a Mumiazinha. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+@14 
+npc_text= 
+
+Op1=(Acho que consegui um aliado)Ir embora. 
+
+Op1_full=Tchau amigo. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 

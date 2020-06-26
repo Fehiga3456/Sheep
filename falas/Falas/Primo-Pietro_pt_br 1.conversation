@@ -1,0 +1,159 @@
+@1 
+
+npc_text= 
+
+Op1=Falar com o Pietro. 
+
+Op1_full=Bom dia! Pietro me ajuda, você viu minhas ovelhas por aí? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+  
+
+@2 
+
+npc_text= Não Vivi, mas elas não podem ter indo para a ilha da Vovó? 
+
+Op1= (Caramba estou começando a ficar desesperada) Tem razão. 
+
+Op1_full= Tem razão, vou procurar por lá. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+  
+
+@3 
+
+npc_text= E Vivi, você lembrou de cortar as lãs delas? 
+
+Op1=(Como eu esqueci disso!)Dizer que ainda não. 
+
+Op1_full= Eita, ainda não, quando que o seu pai vai vir pegar elas? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+  
+
+@4 
+
+npc_text= Hum, eu acho que era hoje, não era? 
+
+Op1= (Puxa vida Vivi, não deveria ter ficado acordada até tarde) Ai caramba, ferrou! 
+
+Op1_full= OK, vou correndo para a vovó, obrigada! 
+
+Op2= Perguntar sobre sistema de portais. 
+
+Op2_full= Esse sistema de teletransporte de ilhas já está muito estranho, agora temos até que ativar eles nas nossas mentes! 
+
+Op3= Recomendar um filme. 
+
+Op3_full= Assisti um filme de terror muito bom ontem anoite, você deveria assistir também. 
+
+Op4= 
+
+Op4_full= 
+
+ 
+
+@5 
+
+npc_text=Tchau Vivi.
+
+Op1= Ir em bora. 
+
+Op1_full= Até mais Pietro. 
+
+Op2=  
+
+Op2_full=  
+
+Op3=  
+
+Op3_full=  
+
+Op4= 
+
+Op4_full= 
+
+  
+
+@6 
+
+npc_text= Realmente, é bem estranho, na minha mente eu tenho que pensar na letra E para teletransporte. 
+
+Op1=(Caramba com ele também )Concordar com ele. 
+
+Op1_full=Sim, também, pela nossa segurança deveríamos mudar isso. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+@7 
+
+npc_text= Sei não Vivi, você sabe que eu tenho bastante medo. 
+
+Op1= (Sabia! *risos*) Dizer que ele é seu medroso. 
+
+Op1_full=*risos* Não precisa ser tão medrosos Pietro. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 

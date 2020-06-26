@@ -1,0 +1,104 @@
+@1 
+
+npc_text= 
+Op1=Dizer olá para a vovó. 
+Op1_full= Olá Vovó, olha estou um pouco desesperada, você viu minhas ovelhas por aí? 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full=  
+
+@2 
+
+npc_text= OI! Pode repetir! 
+Op1= (<i>*Risos*</i>) Pedir para ela parar de brincar. 
+Op1_full= Para de brincar Vovó! 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+   
+
+@3 
+
+npc_text= <i>*Risos*</i>, suas ovelhas Vivi, eu as vi sim. 
+Op1=(Ufa!) Deve estar tranquilo. 
+Op1_full= Então está tranquilo, né Vovó? 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+
+@4 
+
+npc_text=Ainda não, elas foram para o portal dimensional. 
+Op1= (Agora já era!) Perguntar como elas fizeram isso. 
+Op1_full= Oque! Estou ferrada, mas como elas fizeram isso? 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+  
+
+@5 
+
+npc_text= <i>*Risos*<i/>! Ai já está querendo demais, só sei que vi elas quando eu acordei. 
+Op1= (Só pode ser) Ir falar com o Tio. 
+Op1_full= Isso é estranho, para ativar os portais é preciso da chave, que fica com o Tio Marcos! Vou perguntar para ele. 
+Op2=Perguntar por que o Tio anda chato. 
+Op2_full= Vovó, por que o tio anda tão mais chato que o normal? 
+Op3=(Amo bolo de cenoura) Pedir um bolo de cenoura. 
+Op3_full=Vovó quando eu voltar você pode fazer aquele bolo de cenoura? 
+Op4= 
+Op4_full= 
+  
+
+@6 
+
+npc_text= 
+Op1=Ir embora. 
+Op1_full=Obrigada Vovó. 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full=  
+Op4= 
+Op4_full= 
+  
+  
+
+@7 
+
+npc_text= Depois que o resto da família se mudou para essas terras, a cabeça daquele idiota ficou bem confusa. 
+Op1= Dizer que ela tem razão. 
+Op1_full=Verdade, mas isso não é desculpas. 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+ 
+
+@8 
+
+npc_text= Claro meu amor, só que não temos cenoura, você vai ter que ir na fazendo dos Moonlight. 
+Op1= Dizer obrigada. 
+Op1_full=Obrigada vovó, vou tentar achar. 
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+ 

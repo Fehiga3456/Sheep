@@ -1,0 +1,56 @@
+@1 
+npc_text=Não chega perto de mim!
+Op1= (TE ACHEI!) Virginus, venha aqui!!!
+Op1_full=Ei, calma eu só quero conversar.
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+@2
+npc_text=Sai garota, eu não sei de nada, me deixa em paz.
+Op1= Dizer que ele é legal.
+Op1_full=Eu sei que foi você, mas eu não vou te dedurar, sei que você é uma pessoa legal.
+Op2= Ameaçar.
+Op2_full=É o seguinte maluco, ou você vem por bem ou por mal, qual você escolhe?
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+@3
+npc_text=Você…você promete?
+Op1=Sim, com uma condição.
+Op1_full=Sim! Com uma condição, me ajuda a salvar a ovelha, e eu não deduro você!
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full=
+Op4= 
+Op4_full=
+
+@4
+npc_text=Eu… eu não sou um covarde, eu irei te ajudar.
+Op1=(Ufa, finalmente consegui!) Certo, então vamos!
+Op1_full= Certo, então vamos!
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+@5
+npc_text=<i>*desesperado*</i> TA, Ta, Eu vou por bem, desculpa mumiazinha, não me jogue uma maldição por favor.
+Op1= (Assistir aquele filme ontem até que não foi má ideia <i>*risos*</i>) Certo, então vamos!
+Op1_full= Certo, então vamos!
+Op2= 
+Op2_full= 
+Op3= 
+Op3_full= 
+Op4= 
+Op4_full= 
+
+ 

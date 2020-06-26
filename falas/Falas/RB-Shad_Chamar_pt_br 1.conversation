@@ -1,0 +1,97 @@
+@1 
+
+npc_text= 
+
+Op1=(E lá vamos nós!) Dizer Oi. 
+
+Op1_full= Vivi — Oi! Carinha. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@2 
+
+npc_text=OI! Tudo bem? Veio para dançar comigo? 
+
+Op1=Pedir ajuda. 
+
+Op1_full=Não cara, eu vim pedir uma ajudar para você, sabe a ovelha? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@3 
+
+npc_text=Claro, é aquela gatinha, o que tem ela? 
+
+Op1= (Deveria ter feito mais amigos) Dizer a situação da ovelha. 
+
+Op1_full= Ela agora está correndo um grande perigo teria como você ajudar ela? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@4 
+
+npc_text=O que! Ovelhinha, ninguém mexe com as minhas gatinhas, estou indo agora. 
+
+Op1=(Já tenho mais alguém)Ir embora. 
+
+Op1_full=Obrigada Shad, já estou indo para lá também. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+ 

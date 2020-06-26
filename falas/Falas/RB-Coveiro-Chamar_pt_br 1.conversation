@@ -1,0 +1,233 @@
+@1 
+
+npc_text=
+
+Op1=Oi! E aí, tudo bem?
+
+Op1_full=  
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@2 
+
+npc_text=Não. 
+
+Op1= Perguntar porque.  
+
+Op1_full= Mas porquê?  
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@3 
+
+npc_text=Eu fui pesquisar e descobri que não existe uma Cleópatra X. 
+
+Op1=(Vish isso é ruim) sair dessa situação. 
+
+Op1_full= Entendi então, acabei que esqueci meus binóculos, vou buscar lá rápida. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@4 
+
+npc_text=Seja rápida! 
+
+Op1=(Que Medo!)Sim, senhor! 
+
+Op1_full= 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@5 
+
+npc_text=Mais ou menos Mumiazinha  
+
+Op1=Dizer a situação. 
+
+Op1_full=Então Coveiro eu meio estou em uma confusão. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@6 
+
+npc_text=Como assim Mumiazinha? Qual desses vermes insolentes fez mal a você! 
+
+Op1=Dizer que está em um julgamento. 
+
+Op1_full=Não, fique tranquilo, na verdade, eu estou em um Julgamento. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@7 
+
+npc_text=UM JULGAMENTO? Isso é pior que eu pensava. 
+
+Op1=Pedir ajuda para o Coveiro. 
+
+Op1_full=Bom é uma longa história, mas fique tranquilo, você poderia me ajudar sendo uma das minhas testemunhas? Na verdade, é para a ovelha. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+@8 
+
+npc_text=Humm! Aquela ovelha, pensado bem eu não deveria ter deixado ela entrar, eu deveria ajudar ela... 
+
+Op1= Agradecer. 
+
+Op1_full= Muito obrigada senhor Coveiro. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+@9 
+
+npc_text= Mas de qualquer modo, eu não posso ir. 
+
+Op1=(Merda)Perguntar porque. 
+
+Op1_full=Mas porque não? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+@10 
+
+npc_text= Se esqueceu? Eu sou o Coveiro, não posso deixar meu posto, mas te desejo boa sorte. 
+
+Op1= (Aff!)Dizer obrigada. 
+
+Op1_full=Tudo bem! Obrigada de qualquer forma. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+ 

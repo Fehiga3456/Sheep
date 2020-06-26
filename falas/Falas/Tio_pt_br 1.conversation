@@ -1,0 +1,163 @@
+@1 
+
+npc_text= Vivi - 
+
+Op1= (E lá vamos nós) Perguntar sobre as ovelhas. 
+
+Op1_full= Oi Tio, você viu minhas ovelhas por aí? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@2 
+
+npc_text= Tio - Não, por que você está perguntando isso? 
+
+Op1=(Talvez a melhor opção)Falar a verdade. 
+
+Op1_full=Então Tio, elas fugiram. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@3 
+
+npc_text= Ok, isso é ruim, mas você não as achou nas ilhas? 
+
+Op1=(Estou ferrada)Dizer que não. 
+
+Op1_full=Não, elas provavelmente entraram nos portais. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@4 
+
+npc_text=Você acha que elas passam pelo portal? 
+
+Op1=(Ele está surdo?) Confirmar que sim. 
+
+Op1_full=Sim, foi o que eu disse. A Vovó disse que elas passaram por lá. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@5 
+
+npc_text= Tio - Não seja boba, você ainda acredita nas bobagens daquela velha. Elas devem estar por aí, você que não deve ter procurado direito. 
+
+Op1=(Mas que cara chato) Eu já falei que não! 
+
+Op1_full= Vivi - Não! Eu às procurei, o único lugar que elas podem estar é no portal! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@6 
+
+npc_text=Hum. Será? Elas podem ter caído, do jeito idiota que elas são. 
+
+Op1= (Calma Vivi, só pode para ele abrir o portal e pronto) Tentar se acalmar. 
+
+Op1_full= Olha seu careca chato, eu já estou muito preocupada com minha real família para ficar falando com você, só abre logo esse portal.  
+
+Op2=(O que esse bastardo disse!)Ficar P.U.T.A. 
+
+Op2_full= Você é a pior pessoa do mundo, ninguém gosta de você seu chato de %^#@! Só abre isso logo, seu %$^&. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@7 
+
+npc_text=Calma lá, Vivi sua boca suja, eu deveria te dar umas palmadas para você aprender. Já está aberto, pode ir corrigir sua cagada. 
+
+Op1= (já vou tarde) Ir embora. 
+
+Op1_full=Até. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
