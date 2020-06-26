@@ -1,0 +1,63 @@
+@1 
+
+npc_text= 
+
+Op1= (Será que ele me ajuda?) Pedir ajuda. 
+
+Op1_full= Oi, tem como você me ajuda? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+ 
+
+@2 
+
+npc_text= Você… pedindo minha ajuda… Sim, com certeza, minha rainha. 
+
+Op1= (Isso!) Aceitar ela. 
+
+Op1_full=Então venha. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full=  
+ 
+
+@3 
+
+npc_text= Tipo assim miga, não. 
+
+Op1=(Merda!) Ir embora. 
+
+Op1_full= Tudo bem então, nem queria mesmo. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+ 

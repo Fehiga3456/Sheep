@@ -1,0 +1,309 @@
+@1 
+
+npc_text= 
+
+Op1=(Agora está fácil)Oi, posso passar?   
+
+Op1_full=Oi, posso pas... 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@2 
+
+npc_text=Ei, você é a menina viva que estava aqui? 
+
+Op1=(MALDITO!)Não falar nada. 
+
+Op1_full= 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@3 
+
+npc_text=Colocar papel higiênico em volta do seu corpo não foi a melhor ideia. 
+
+Op1=Não ria de mim. 
+
+Op1_full=Ei, não ria, eu fiz isso para pegar minha ovelha! 
+
+Op2=Tentar enganar. 
+
+Op2_full=Como é, eu sou a grande Cleópatra X, como ousa disser essas coisas! 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@4 
+
+npc_text= Hohohoho, você tem coragem Mumiazinha, vai precisar.  
+
+Op1=(Por favor)perguntar se pode passar. 
+
+Op1_full= Então eu posso passar para achar ela? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@5 
+
+npc_text= Pode passar, gostei muito da ovelha e você parece ser legal, mas tome cuidado. 
+
+Op1=(Boa)Dizer obrigada e ir embora. 
+
+Op1_full=Obrigada, senhor Coveiro. 
+
+Op2=Perguntar onde ela pode estar. 
+
+Op2_full=Você pode me dar uma dica de onde ela pode estar? 
+
+Op3=Perguntar por que é tão vazio 
+
+Op3_full=Por que esse lugar é tão vazio. 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@6 
+
+npc_text= 
+
+Op1=Ufa, essa foi difícil. 
+
+Op1_full=  
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@7 
+
+npc_text=Sinceramente é muito difícil dizer, é melhor você ir procurando. 
+
+Op1=Tudo bem  
+
+Op1_full= Tudo bem, você já está ajudando muito. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@8 
+
+npc_text=Como assim? Esse lugar está bombando! 
+
+Op1=Sério? 
+
+Op1_full= Sério mesmo? Não parece muito. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@9 
+
+npc_text= Opa, urr, desculpa Mumiazinha tinha uma coisa na minha garganta. 
+
+Op1=(*Risos*) Dizer que é isso mesmo. 
+
+Op1_full=É isso mesmo, sou a Cleópatra. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@10 
+
+npc_text=É que tinha alguém idêntica á você. 
+
+Op1=(Não estou acreditando)Sei! 
+
+Op1_full=Sei! Só me deixe passar antes que eu me estresse. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@11 
+
+npc_text=Tudo bem pode entrar senhora Mumiazinha 
+
+Op1=(Fácil)Ir embora 
+
+Op1_full=Obrigada, senhor Coveiro. 
+
+Op2=Perguntar por que é tão vazio 
+
+Op2_full=Por que esse lugar é tão vazio. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@12 
+
+npc_text= 
+
+Op1=Ufa, essa foi fácil. 
+
+Op1_full=  
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 
+
+  
+
+@13 
+
+npc_text=Como assim? Esse lugar está bombando! 
+
+Op1=Sério? 
+
+Op1_full= Sério mesmo? Não parece muito. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@ 

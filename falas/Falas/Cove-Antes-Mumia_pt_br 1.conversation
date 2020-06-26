@@ -1,0 +1,85 @@
+@1
+npc_text=Bem-vinda a Rave... Quem é você?
+Op1=(QuE MeDoo)Meu nome é Vivi
+Op1_full=Olá, eu me chamo Vivi, sou uma pastora.  
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@2
+npc_Text=E o que voce faz aqui, pastorinha?
+Op1=Estou procurando minha ovelha.
+Op1_full=A minha ovelha fugiu e estou procurando ela. Voce viu uma ovelha por aqui?
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@3
+npc_Text=Eu até deixei uma ovelhinha negra entrar, mas não vou deixar você passar!
+Op1=Por que!?
+Op1_full=Mas por que!? Sou a dona dela só gostaria de leva-lá para casa.
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@4
+npc_Text=Eu sou o Coveiro e não irei deixar você entrar. Somente os mortos podem entrar em Raveyard.
+Op1=(Será que a ovelha morreu!? Preciso encontrar ela)Ela morreu??
+Op1_full=Ela morreu?
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@5
+npc_Text=Ela estava toda preta, todo corpo decomposto é preto.
+Op1=(Ele deve ter confundido a lã preta) Posso conferir?
+Op1_full=Será que eu não poderia entrar só para ver minha ovelha uma ultima vez?
+Op2=Peraí... voce não tem olhos!
+Op2_full=Como voce sabe se ela morreu? Voce nem tem olhos!
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@6
+npc_Text=De jeito nenhum! Só os mortos podem entrar! Se eu deixar voce entrar, eu perco meu emprego!
+Op1=(Vou ter que achar um jeito de passar sem ser percebida)
+Op1_full=(Vou ter que achar um jeito de passar sem ser percebida)
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+@7
+npc_Text=Eu não tenho lhos mas eu consigo ver muito bem! Agora saia daqui que você não vai entrar!
+Op1=Eu vou dar um jeito de entrar, voce  vai ver!
+Op1_full=Eu vou dar um jeito de entrar, voce  vai ver!
+Op2=
+Op2_full=
+Op3=
+Op3_full=
+Op4=
+Op4_full=
+@
+
+

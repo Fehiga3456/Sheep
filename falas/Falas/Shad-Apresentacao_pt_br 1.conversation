@@ -1,0 +1,183 @@
+@1 
+
+npc_text=Eu malho sim, deu para perceber? 
+
+Op1= (Esse cara está louco?) Oi!? 
+
+Op1_full= Oi? Está falando comigo? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@2 
+
+npc_text= Shad — Meu nome é Shad e foi com você sim. O que uma Mumiazinha bonita como você está fazendo sozinha? 
+
+Op1=(Caramba que cara chato) Dar um fora. 
+
+Op1_full=Credo, sai de perto seu esquelético, tenho mais coisa para fazer. 
+
+Op2= (Talvez ele possa me ajudar) Tentar descobrir algo. 
+
+Op2_full=Acabei de chegar, estou procurando minha amiga. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@3 
+
+npc_text= Me desculpa, Shad não quis ser grosseiro, você é nova aqui? 
+
+Op1= (Aff) Tentar descobrir algo. 
+
+Op1_full=Acabei de chegar, estou procurando minha amiga. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@4 
+
+npc_text= Sua amiga é mais bonita que você? 
+
+Op1= (Isso está ficando insuportável) Entrar no jogo dele. 
+
+Op1_full=Ela é bem bonita, tem um estilo gótico e é bem peluda. Você viu alguém assim? 
+
+Op2= (Puta merda já deu para mim) Dar um fora nesse chato. 
+
+Op2_full= Aff! Seu chato sai daqui. 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@5 
+
+npc_text=Sua amiga é a ovelha? 
+
+Op1= (Ufa) Isso mesmo. 
+
+Op1_full= Isso mesmo, você sabe onde ela está? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@6 
+
+npc_text=Desculpa, Shad queria saber para te ajudar. 
+
+Op1=(Última chance!) Ela é bem bonita.  
+
+Op1_full= Ela é bem bonita e tem um estilo gótico e é bem peluda. Você viu alguém assim? 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+  
+
+  
+
+@7 
+
+npc_text=Sim, Shad viu ela indo até a pista de dance, ela deve estar por lá. 
+
+Op1=Dizer obrigada. 
+
+Op1_full=Obrigada Shad, vou indo. 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
+
+@8 
+
+npc_text=Só tem uma coisa, você pode apresentar ela para mim depois? 
+
+Op1=(Olha a audácia desse cara ) Quem sabe. 
+
+Op1_full=Quem sabe, mas já que você me ajudou eu posso dar uma ajuda. Falou ai! 
+
+Op2= 
+
+Op2_full= 
+
+Op3= 
+
+Op3_full= 
+
+Op4= 
+
+Op4_full= 
